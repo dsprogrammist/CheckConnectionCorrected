@@ -1,0 +1,9 @@
+C:\Users\DASergeeva\Documents\CheckConnection\PingForm\bin\Debug\PingForm.exe.config
+C:\Users\DASergeeva\Documents\CheckConnection\PingForm\bin\Debug\PingForm.exe
+C:\Users\DASergeeva\Documents\CheckConnection\PingForm\bin\Debug\PingForm.pdb
+C:\Users\DASergeeva\Documents\CheckConnection\PingForm\obj\Debug\PingForm.csprojResolveAssemblyReference.cache
+C:\Users\DASergeeva\Documents\CheckConnection\PingForm\obj\Debug\PingForm.MainPingForm.resources
+C:\Users\DASergeeva\Documents\CheckConnection\PingForm\obj\Debug\PingForm.Properties.Resources.resources
+C:\Users\DASergeeva\Documents\CheckConnection\PingForm\obj\Debug\PingForm.csproj.GenerateResource.Cache
+C:\Users\DASergeeva\Documents\CheckConnection\PingForm\obj\Debug\PingForm.exe
+C:\Users\DASergeeva\Documents\CheckConnection\PingForm\obj\Debug\PingForm.pdb

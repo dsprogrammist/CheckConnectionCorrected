@@ -365,8 +365,8 @@ namespace CheckConnection
         private void PingtoolStripButton_Click(object sender, System.EventArgs e)
         {
             List<Ping> Ping_list = new List<Ping>();
-  
-            var PingForm = new TracertForm.PingForm();
+
+            var PingForm = new PingForm.MainPingForm();
             PingForm.Show();
         }
 

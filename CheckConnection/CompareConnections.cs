@@ -72,13 +72,16 @@ namespace CheckConnection
             {
                 height += row.Height;
             }
-            resultDataGridView.Height = height + resultDataGridView.ColumnHeadersHeight+20;
-            ClientSize=new Size((resultDataGridView.Width),(resultDataGridView.Height));
+            resultDataGridView.Height = height + resultDataGridView.ColumnHeadersHeight+40;
+            ClientSize=new Size(resultDataGridView.Width, resultDataGridView.Height);
+            this.MinimumSize=new Size(0, resultDataGridView.Height+5);
+            this.MaximumSize=new Size(100000000, resultDataGridView.Height+5);
             resultDataGridView.Anchor|=AnchorStyles.Bottom|AnchorStyles.Right;
             formSize = resultDataGridView.Width;
             int colWidth = resultDataGridView.Columns[1].GetPreferredWidth(DataGridViewAutoSizeColumnMode.AllCells, false);
             resultDataGridView.Columns[1].AutoSizeMode=DataGridViewAutoSizeColumnMode.NotSet;
             resultDataGridView.Columns[1].Width = colWidth-5;
+            
         }
 
         void InputTable(DataGridViewRow dgvRow, int index, int cellIndex)

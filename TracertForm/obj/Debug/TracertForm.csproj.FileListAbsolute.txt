@@ -9,3 +9,13 @@ C:\Users\DASergeeva\Documents\Visual Studio 2015\Projects\CheckConnection (2)\Tr
 C:\Users\DASergeeva\Documents\Visual Studio 2015\Projects\CheckConnection (2)\TracertForm\obj\Debug\TracertForm.csproj.GenerateResource.Cache
 C:\Users\DASergeeva\Documents\Visual Studio 2015\Projects\CheckConnection (2)\TracertForm\obj\Debug\TracertForm.exe
 C:\Users\DASergeeva\Documents\Visual Studio 2015\Projects\CheckConnection (2)\TracertForm\obj\Debug\TracertForm.pdb
+C:\Users\DASergeeva\Documents\CheckConnection\TracertForm\bin\Debug\TracertForm.exe
+C:\Users\DASergeeva\Documents\CheckConnection\TracertForm\bin\Debug\TracertForm.pdb
+C:\Users\DASergeeva\Documents\CheckConnection\TracertForm\bin\Debug\tracert.dll
+C:\Users\DASergeeva\Documents\CheckConnection\TracertForm\bin\Debug\tracert.pdb
+C:\Users\DASergeeva\Documents\CheckConnection\TracertForm\obj\Debug\TracertForm.csprojResolveAssemblyReference.cache
+C:\Users\DASergeeva\Documents\CheckConnection\TracertForm\obj\Debug\TracertForm.MainForm.resources
+C:\Users\DASergeeva\Documents\CheckConnection\TracertForm\obj\Debug\TracertForm.Properties.Resources.resources
+C:\Users\DASergeeva\Documents\CheckConnection\TracertForm\obj\Debug\TracertForm.csproj.GenerateResource.Cache
+C:\Users\DASergeeva\Documents\CheckConnection\TracertForm\obj\Debug\TracertForm.exe
+C:\Users\DASergeeva\Documents\CheckConnection\TracertForm\obj\Debug\TracertForm.pdb
