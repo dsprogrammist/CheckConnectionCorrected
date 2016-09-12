@@ -458,7 +458,7 @@ namespace CheckConnection
                         }
                         else
                         {
-                            if (ConnectionsdataGridView.Rows[rowIndex].Cells[i].Value == null)
+                            if (ConnectionsdataGridView.Rows[0].Cells[i].Value == null)
                             {
                                 count++;
                             }
